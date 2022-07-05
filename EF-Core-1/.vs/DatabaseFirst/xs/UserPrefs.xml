@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{80613CC9-0BDA-4EBB-8B08-B22AB0EB7080}|Test1Retake">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Test1Retake/Services/RentalService.cs">
+    <Files>
+      <File FileName="Test1Retake/Program.cs" Line="13" Column="1" />
+      <File FileName="Test1Retake/appsettings.json" Line="14" Column="1" />
+      <File FileName="Test1Retake/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="Test1Retake/DTO/RentDTO.cs" Line="15" Column="2" />
+      <File FileName="Test1Retake/DTO/CarDTO.cs" Line="13" Column="49" />
+      <File FileName="Test1Retake/Services/IRentalService.cs" Line="12" Column="2" />
+      <File FileName="Test1Retake/Services/RentalService.cs" Line="32" Column="1" />
+      <File FileName="Test1Retake/Controllers/RentController.cs" Line="36" Column="2" />
+      <File FileName="Test1Retake/DTO/ClientDTO.cs" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DatabaseFirst" expanded="True">
+            <Node name="DatabaseFirst" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="DTO" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.DatabaseFirst PreferredExecutionTarget="/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
