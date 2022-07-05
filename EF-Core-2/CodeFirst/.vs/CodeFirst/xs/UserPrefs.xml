@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{45BE66D7-1E66-4E7A-8483-7C3D82DAAC88}|Test2">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Services/IClientService.cs">
+    <Files>
+      <File FileName="Configurations/ClientConfing.cs" Line="6" Column="20" />
+      <File FileName="Configurations/ClientOrderConfig.cs" Line="1" Column="1" />
+      <File FileName="Configurations/Confectionery_ClientOrderConfig.cs" Line="1" Column="1" />
+      <File FileName="Configurations/ConfectioneryConfig.cs" Line="1" Column="1" />
+      <File FileName="Controllers/ClientController.cs" Line="1" Column="1" />
+      <File FileName="DTO/ClientOrderDTO.cs" Line="1" Column="1" />
+      <File FileName="DTO/ConfectionDTO.cs" Line="1" Column="1" />
+      <File FileName="Migrations/s22284ContextModelSnapshot.cs" Line="1" Column="1" />
+      <File FileName="Services/ClientService.cs" Line="1" Column="1" />
+      <File FileName="Services/IClientService.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CodeFirst" expanded="True">
+            <Node name="CodeFirst" expanded="True">
+              <Node name="Configurations" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="DTO" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="IClientService.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CodeFirst PreferredExecutionTarget="/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

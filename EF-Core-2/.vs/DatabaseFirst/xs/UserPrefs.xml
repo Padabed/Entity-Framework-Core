@@ -1,0 +1,55 @@
+﻿<Properties StartupConfiguration="{9909812B-F92A-4399-AAA3-BCDD22BAB590}|Test2">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Test2/Controllers/ClientController.cs">
+    <Files>
+      <File FileName="Test2/Program.cs" Line="14" Column="61" />
+      <File FileName="Test2/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="Test2/appsettings.json" Line="1" Column="1" />
+      <File FileName="Test2/Models/s22284Context.cs" Line="23" Column="46" />
+      <File FileName="Test2/Models/Confectionery.cs" Line="13" Column="6" />
+      <File FileName="Test2/Models/Client.cs" Line="20" Column="1" />
+      <File FileName="Test2/Models/Employee.cs" Line="19" Column="2" />
+      <File FileName="Test2/Models/ClientOrder.cs" Line="13" Column="14" />
+      <File FileName="Test2/Models/Confectionery_ClientOrder.cs" Line="21" Column="1" />
+      <File FileName="Test2/Configurations/ClientConfing.cs" Line="19" Column="1" />
+      <File FileName="Test2/Configurations/EmployeeConfig.cs" Line="19" Column="10" />
+      <File FileName="Test2/Configurations/ClientOrderConfig.cs" Line="16" Column="52" />
+      <File FileName="Test2/Configurations/ConfectioneryConfig.cs" Line="17" Column="13" />
+      <File FileName="Test2/Configurations/Confectionery_ClientOrderConfig.cs" Line="36" Column="2" />
+      <File FileName="Test2/Migrations/20220609085430_InitialMigration.cs" Line="1" Column="1" />
+      <File FileName="Test2/Migrations/s22284ContextModelSnapshot.cs" Line="1" Column="1" />
+      <File FileName="Test2/Services/IClientService.cs" Line="11" Column="1" />
+      <File FileName="Test2/Services/ClientService.cs" Line="6" Column="12" />
+      <File FileName="Test2/DTO/ClientOrderDTO.cs" Line="17" Column="1" />
+      <File FileName="Test2/DTO/ConfectionDTO.cs" Line="8" Column="40" />
+      <File FileName="Test2/Controllers/ClientController.cs" Line="34" Column="1" />
+      <File FileName="Test2/Test2.csproj" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DatabaseFirst" expanded="True">
+            <Node name="DatabaseFirst" expanded="True">
+              <Node name="Configurations" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="ClientController.cs" selected="True" />
+              </Node>
+              <Node name="DTO" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.CodeFirst PreferredExecutionTarget="/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
